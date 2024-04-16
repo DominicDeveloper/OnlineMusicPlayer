@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129530934157",
+    "project_id": "onlinevideoplayer-fad9d",
+    "storage_bucket": "onlinevideoplayer-fad9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129530934157:android:f7fb64007ae3bef4dcc3c4",
+        "android_client_info": {
+          "package_name": "com.asadbek.onlinevideoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6yu0lIQPEFm_VjM3IYni3nZr0SPJtgo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnlineVideoPlayer</string>
+    <string name="enter_video_title">Enter video title</string>
+    <string name="video_title">Video Title</string>
+</resources>
